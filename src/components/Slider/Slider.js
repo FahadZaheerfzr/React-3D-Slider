@@ -49,17 +49,6 @@ export default function Slider() {
     <Carousel
       carouselId="Carousel-31"
       images={content}
-      options={{
-        dist: 50,
-        duration: 200,
-        fullWidth: false,
-        indicators: false,
-        noWrap: false,
-        numVisible: 5,
-        onCycleTo: null,
-        padding: 0,
-        shift: 10,
-      }}
     />
   );
 }

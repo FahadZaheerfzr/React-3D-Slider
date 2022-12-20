@@ -1,7 +1,7 @@
 .slide {
   background: linear-gradient(
     rgba(217, 217, 217, 0.161) 0%,
-    rgba(0, 0, 0, 0.4) 100%
+    rgba(0, 0, 0, 0.29) 100%
   ) !important;
   box-shadow: inset 26.9401px -26.9401px 26.9401px rgba(165, 165, 165, 0.161),
     inset -26.9401px 26.9401px 26.9401px rgba(255, 255, 255, 0.161);
