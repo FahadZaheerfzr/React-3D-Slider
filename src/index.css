@@ -30,7 +30,3 @@ code {
   height: 500px;
 }
 
-.carousel-item {
-  background-image: url("../public/images/slider/slider-background.svg") !important;
-  opacity: 1 !important;
-}
